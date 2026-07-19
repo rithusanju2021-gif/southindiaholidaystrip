@@ -601,7 +601,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // ── Confetti ──
   function launchConfetti() {
-    var colors = ['#38BDF8', '#0EA5E9', '#10B981', '#FB923C', '#FBBF24'];
+    var colors = ['#38BDF8', '#0EA5E9', '#14336B', '#7DD3FC', '#FFFFFF'];
     for (var i = 0; i < 60; i++) {
       (function (j) {
         setTimeout(function () {
