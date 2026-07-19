@@ -2674,7 +2674,7 @@ textarea {
   display: block;
   font-size: 0.95rem;
   font-weight: 700;
-  color: goldenrod;
+  color: #0284C7;
   margin-bottom: 6px;
   letter-spacing: 0.5px;
 }
@@ -2896,7 +2896,7 @@ textarea {
   font-size: 1.4rem;
   font-style: normal;
   font-weight: 700;
-  color: goldenrod;
+  color: #0284C7;
   line-height: 1;
 }
 
